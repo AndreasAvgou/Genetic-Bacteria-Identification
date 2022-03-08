@@ -1,0 +1,6 @@
+1. Python == 3.8+
+2. Numpy == 1.19+
+3. Pandas == 1.3.5+
+4. Seaborn == 0.11.2+ 
+5. Sklearn == 0.22+
+6. Matplotlib == 1.19+
