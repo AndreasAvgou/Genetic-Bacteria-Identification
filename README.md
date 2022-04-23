@@ -1,4 +1,5 @@
 # Genetic Bacteria Identification
+![images](https://user-images.githubusercontent.com/22665704/164947022-5331dc59-e9fc-434e-94d5-2807f1147ffc.jpg)
 
 ## Problem Statement
 
